@@ -11,7 +11,7 @@ theme:
   logo: assets/final_logo.png
   favicon: assets/favicon.ico
   extra_css:
-  - assets/extra.css
+    - assets/extra.css
   palette:
     - scheme: default
       primary: red
