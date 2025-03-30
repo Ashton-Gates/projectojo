@@ -1,4 +1,4 @@
-# 👁️ About Project Ojo
+# About Project Ojo
 
 **Project Ojo is an open-source intelligence initiative that exposes how trafficking scouts operate—so you can move safer, recognize the signs, and protect yourself and others.**
 

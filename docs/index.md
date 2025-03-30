@@ -1,4 +1,4 @@
-# 👁️ Project Ojo
+# Project Ojo
 
 **A global travel safety and pattern intelligence platform built to expose human trafficking tactics—before they reach you.**
 
