@@ -10,6 +10,8 @@ theme:
     - content.tabs.link
   logo: assets/final_logo.png
   favicon: assets/favicon.ico
+  extra_css:
+  - assets/extra.css
   palette:
     - scheme: default
       primary: red
