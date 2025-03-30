@@ -1,0 +1,59 @@
+# Project Ojo: GitHub Repo Structure for MkDocs Site
+
+project-ojo/
+├── docs/                         # MkDocs site content lives here
+│   ├── index.md                  # Homepage
+│   ├── contributing.md           # How to submit patterns
+│   ├── recognition/              # Victim recognition folder
+│   │   ├── index.md
+│   │   ├── minors.md
+│   │   ├── adults.md
+│   │   ├── sex_trafficking.md
+│   │   ├── labor_trafficking.md
+│   │   ├── domestic_servitude.md
+│   │   └── psychological_signs.md
+│   ├── patterns/                 # Global pattern categories
+│   │   ├── fake_jobs.md
+│   │   ├── bar_recruitment.md
+│   │   ├── nightclub_approach.md
+│   │   ├── mall_scouting.md
+│   │   └── transit_scouting.md
+│   ├── locations/               # Location-based tactics
+│   │   ├── airports.md
+│   │   ├── ports.md
+│   │   ├── highways.md
+│   │   ├── markets.md
+│   │   ├── streets.md
+│   │   └── transit_terminals.md
+│   ├── countries/               # Region-specific folders
+│   │   ├── mexico/
+│   │   │   ├── index.md
+│   │   │   ├── safe_areas.md
+│   │   │   ├── dangerous_areas.md
+│   │   │   └── embassy_info.md
+│   │   ├── philippines/
+│   │   │   ├── index.md
+│   │   │   ├── safe_areas.md
+│   │   │   ├── dangerous_areas.md
+│   │   │   └── embassy_info.md
+│   │   ├── spain/
+│   │   │   ├── index.md
+│   │   │   ├── safe_areas.md
+│   │   │   ├── dangerous_areas.md
+│   │   │   └── embassy_info.md
+│   │   ├── vietnam/
+│   │   │   ├── index.md
+│   │   │   ├── safe_areas.md
+│   │   │   ├── dangerous_areas.md
+│   │   │   └── embassy_info.md
+│   │   └── honduras/
+│   │       ├── index.md
+│   │       ├── safe_areas.md
+│   │       ├── dangerous_areas.md
+│   │       └── embassy_info.md
+│   ├── templates/
+│   │   └── report_template.md     # Fill-in-the-blank structure for user reports
+│   ├── about.md
+│   └── future_coverage.md
+├── mkdocs.yml                  # MkDocs configuration file
+└── README.md

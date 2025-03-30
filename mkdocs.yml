@@ -1,0 +1,56 @@
+site_name: Project Ojo
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - How to Contribute: contributing.md
+  - Patterns:
+      - Fake Job Offers: patterns/fake_jobs.md
+      - Bar/Hostess Recruitment: patterns/bar_recruitment.md
+      - Nightclub Approach: patterns/nightclub_approach.md
+      - Public Scouting: patterns/public_scouting.md
+      - Transit Scouting: patterns/transit_scouting.md
+  - Locations:
+      - Airports: locations/airports.md
+      - Transit Terminals: locations/transit_terminals.md
+      - Highways: locations/highways.md
+      - Ports: locations/ports.md
+      - Streets: locations/streets.md
+      - Markets: locations/markets.md
+  - Countries:
+      - Future Countries: future_coverage.md
+      - Mexico:
+          - Overview: countries/mexico/index.md
+          - Safe Areas: countries/mexico/safe_areas.md
+          - Dangerous Areas: countries/mexico/dangerous_areas.md
+          - Embassy Info: countries/mexico/embassy_info.md
+      - Philippines:
+          - Overview: countries/philippines/index.md
+          - Safe Areas: countries/philippines/safe_areas.md
+          - Dangerous Areas: countries/philippines/dangerous_areas.md
+          - Embassy Info: countries/philippines/embassy_info.md
+      - Spain:
+          - Overview: countries/spain/index.md
+          - Safe Areas: countries/spain/safe_areas.md
+          - Dangerous Areas: countries/spain/dangerous_areas.md
+          - Embassy Info: countries/spain/embassy_info.md
+      - Vietnam:
+          - Overview: countries/vietnam/index.md
+          - Safe Areas: countries/vietnam/safe_areas.md
+          - Dangerous Areas: countries/vietnam/dangerous_areas.md
+          - Embassy Info: countries/vietnam/embassy_info.md
+      - Honduras:
+          - Overview: countries/honduras/index.md
+          - Safe Areas: countries/honduras/safe_areas.md
+          - Dangerous Areas: countries/honduras/dangerous_areas.md
+          - Embassy Info: countries/honduras/embassy_info.md
+  - Victim Recognition:
+      - Overview: recognition/index.md
+      - Minor Victims: recognition/minors.md
+      - Adult Victims: recognition/adults.md
+      - Sex Trafficking: recognition/sex_trafficking.md
+      - Labor Trafficking: recognition/labor_trafficking.md
+      - Domestic Servitude: recognition/domestic_servitude.md
+      - Psychological Signs: recognition/psychological_signs.md
