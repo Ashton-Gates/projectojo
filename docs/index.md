@@ -38,13 +38,6 @@ What to watch for when someone is being scouted, moved, or groomed—by age grou
 
 ---
 
-## 🛰 Related Project
-
-Looking for **CCTV-based victim identification and AI-assisted surveillance ops?**  
-That’s [Project Nameless](#) — our sister initiative focused on real-time rescue and recovery.
-
----
-
 > _Awareness is survival. Shared patterns save lives._
 
 ---
