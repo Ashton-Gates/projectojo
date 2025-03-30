@@ -8,7 +8,7 @@ theme:
     - toc.integrate
     - content.code.annotate
     - content.tabs.link
-  logo: assets/final_logo.svg
+  logo: assets/final_logo.png
   favicon: assets/favicon.ico
   palette:
     - scheme: default
