@@ -1,51 +1,53 @@
 # 👁️ Project Ojo
 
-**An open-source, crowd-driven intelligence platform for recognizing and disrupting human trafficking.**
+**A global travel safety and pattern intelligence platform built to expose human trafficking tactics—before they reach you.**
 
 ---
 
-## Why We Exist
+## 🎯 Our Mission
 
-Millions of victims go unidentified.  
-The systems built to find them weren’t made for them.
+Project Ojo exists to **help travelers, locals, and everyday observers** recognize the signs of trafficking before it’s too late.
 
-Project Ojo exists to map patterns, expose trafficking routes, and empower those on the front lines with actionable intelligence.
-
----
-
-## What You'll Find Here
-
-🧠 **Patterns**  
-Tactics traffickers use—from bar recruitment to fake jobs and public scouting.
-
-🌐 **Locations**  
-Hot zones and blind spots: transit hubs, ports, streets, markets, and more.
-
-🌎 **Country Breakdowns**  
-What to know, where to avoid, and how scouts operate—per country.
-
-🛡️ **Victim Recognition**  
-How to identify victims by behavior, situation, or psychological signs.
-
-🤝 **How to Contribute**  
-Submit intel, help map new regions, or join the mission.
+We document how scouts operate, where danger tends to concentrate, and how victims are approached—so you can **move smarter, act safer, and report patterns that save lives.**
 
 ---
 
-## Who It's For
+## 🔎 What You’ll Find
 
-- Investigators  
-- NGOs  
-- Journalists  
-- Travelers  
-- Locals  
-- Survivors  
-- You
+🧠 **Scouting Patterns**  
+Breakdowns of common tactics: fake jobs, transit scouts, nightclub grooming, and more.
+
+📍 **High-Risk Locations**  
+Intel on danger zones across ports, terminals, highways, malls, and public spaces.
+
+🌍 **Country-Specific Reports**  
+Know what to look for in the places you're traveling or living in.
+
+🛡 **Victim Recognition Tips**  
+What to watch for when someone is being scouted, moved, or groomed—by age group and exploitation type.
 
 ---
 
-> “Just because they’re hidden, doesn’t mean we can’t find them.”
+## 🧭 Who It’s For
+
+- Solo travelers and backpackers  
+- Locals in trafficking-prone regions  
+- NGO researchers and journalists  
+- Law enforcement and OSINT teams  
+- Survivors who want to contribute
 
 ---
 
-Want to submit data? [See how to contribute →](contributing.md)
+## 🛰 Related Project
+
+Looking for **CCTV-based victim identification and AI-assisted surveillance ops?**  
+That’s [Project Nameless](#) — our sister initiative focused on real-time rescue and recovery.
+
+---
+
+> _Awareness is survival. Shared patterns save lives._
+
+---
+
+### ➕ Want to help?  
+[Submit tips, case patterns, or new regions →](contributing.md)
