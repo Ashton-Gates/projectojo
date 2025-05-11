@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="docs/assets/final_logo.png" alt="Project Ojo Logo" width="200"/>
-</p>
-
 <h1 align="center">Project Ojo</h1>
 
 <p align="center">
